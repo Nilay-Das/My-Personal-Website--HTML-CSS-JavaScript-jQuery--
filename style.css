@@ -635,6 +635,10 @@ object-fit: cover;
     z-index: 1;
 }
 
+.toAlign{
+    margin-bottom: 145px;
+}
+
 /* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-content .left img{
